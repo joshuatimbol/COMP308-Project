@@ -7,16 +7,4 @@
 - Apply appropriate design patterns and principles 
 - Use Machine Learning to make intelligent use of data 
 
-## Developers
-- :sparkles: **Frank Zhou** :sparkles:
-Full-stack Developer
-- :sparkles: **Hang Li** :sparkles:
-Back-end Developer
-- :sparkles: **Kei Mizubuchi** :sparkles:
-Full-stack Developer
-- :sparkles: **Logan J. Kim** :sparkles:
-Front-end Developer
-- :sparkles: **Rithesh D'cruz** :sparkles:
-Project Manager; and Tester
-- :sparkles: **Sadia Rashid** :sparkles:
-Front-end Developer
+
